@@ -73,7 +73,7 @@ client.on("messageCreate", (message) => {
   }
 });
 
-
+console.log(process.env)
 client.login(process.env.BOT).catch(console.error);
 
 
