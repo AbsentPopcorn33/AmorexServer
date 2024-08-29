@@ -1,2 +1,0 @@
-# AmorexServer
-Amorex Server
