@@ -3,7 +3,7 @@ module.exports = {
  
     // Game server domain.
     // If the host is 'localhost:NUMBER', the NUMBER must be the port setting.
-    host: "amorex-ser-ft-aqocnoajxo.glitch.me",
+    host: process.env.domain || "localhost:3000",
 
     // Which port to run the web server on.
     port: 3000,
