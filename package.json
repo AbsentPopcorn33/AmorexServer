@@ -16,7 +16,7 @@
     "web-streams-polyfill": "^4.0.0"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": ">=16.x"
   },
   "license": "GPL-3.0"
 }
